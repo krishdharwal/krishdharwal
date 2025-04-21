@@ -1,4 +1,4 @@
-## Hey fellow warrior👋
+## Socials
 [LinkedIn](https://www.linkedin.com/in/krish-dharwal-964181318?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzNWZFzpJQy2p2qd8GJaRTg%3D%3D)
 
 [LeetCode](https://leetcode.com/u/Krish_LeetCode11/)
